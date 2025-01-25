@@ -15,8 +15,8 @@ Collection of the small projects built with HTML5, CSS3 & JavaScript. No framewo
 | 4 | [Music Player](/music-player/) | Simple, yet stylish music player with custom controls. | [Demo](https:////) |
 | 5 | [Custom Countdown](/custom-countdown/) | Custom countdown app that uses local storage to keep the user data. | [Demo](https:///) |
 | 6 | [Bookmark App](/bookmark-app/) | Simple application for bookmarking webistes. | [Demo](https:///) |
-| 7 | [Form Validation](/form-validation/) | Form validation using HTML and JavaScript. | [Demo](https://tinawebdev.github.io/javascript-projects/form-validation/) |
-| 8 | [Github User Data](/github-user-data/) | Fetch profile user data from GitHub. | [Demo](https://tinawebdev.github.io/javascript-projects/github-user-data/) |
+| 7 | [Form Validation](/form-validation/) | Form validation using HTML and JavaScript. | [Demo](https:///) |
+| 8 | [Github User Data](/github-user-data/) | Fetch profile user data from GitHub. | [Demo](https:///) |
 
 ## How to use
 * Open Terminal and change the current working directory to the location where you want the cloned directory to be made.
